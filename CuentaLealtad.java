@@ -1,8 +1,8 @@
-public class CuentaBancaria{
+public class CuentaLealtad{
     String titular;
     double puntos;
 
-    public CuentaBancaria(String titular, double puntos){
+    public CuentaLealtad(String titular, double puntos){
         this.titular = titular;
         this.puntos = puntos;
     }
